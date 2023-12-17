@@ -53,11 +53,14 @@ input{
 .h1{
     margin:0;
 }
-
+.line{
+    display: flex;
+    flex-direction:row;
+}
 .content h1{
-    margin-left: 600px;
+    margin-left: 300px;
     display: inline-block;
-    
+    margin-top:5%;
     font-size: 60px;
     font-style: bold;
     font-weight: 500;
