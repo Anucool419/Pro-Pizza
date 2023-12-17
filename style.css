@@ -1,0 +1,84 @@
+*{
+    padding:0;
+    margin:0;
+    color: white;
+    
+    
+}
+body{
+    background-image: url(background.jpg);
+}
+#navbar{
+    height:100px;
+    
+
+    background-color: black;
+    border: 2px solid white;
+   
+}
+.Search{
+    font-size: 20px;
+    color: black;
+background-color: red;
+}
+.logo{
+    align-self: left;
+    height: 100px;
+    width:150px;
+    
+}
+a{
+    
+    margin-left: 100px;
+    display: inline-block;
+    font-size: 40px;
+    padding: 20px;
+    text-decoration: none;
+   
+    
+
+    
+}
+input{
+    color:black ;
+    margin-left: 200px;
+        font-size: 20px;
+    }
+
+
+.P{
+    color: rgba(255,0,20,1);
+}
+
+.h1{
+    margin:0;
+}
+
+.content h1{
+    margin-left: 600px;
+    display: inline-block;
+    
+    font-size: 60px;
+    font-style: bold;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.content p{
+ 
+    font-size: 30px;
+    margin-left: 10px;  
+    margin-right: 10px;
+   
+}
+img{
+    margin-left: 100px;
+    margin-top: 5%;
+    display: inline;
+    
+
+}
+.order{
+    color: black;
+    background-color: red;
+font-size: 40px;
+}
